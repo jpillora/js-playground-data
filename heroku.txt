@@ -1,0 +1,2 @@
+App URL http://jp-js-playground.herokuapp.com/
+Git URL git@heroku.com:jp-js-playground.git
